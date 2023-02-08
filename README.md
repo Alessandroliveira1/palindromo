@@ -1,1 +1,2 @@
 # palindromo
+* Linguagem: Kotlin
